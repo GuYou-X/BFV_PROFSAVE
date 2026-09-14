@@ -25,7 +25,7 @@ GstInput.LeanHold 0
 GstInput.LeaningEnabled 0
 GstInput.LeaningSensitivity 0.500000
 GstInput.MouseRawInput 1
-GstInput.MouseSensitivity 0.030000
+GstInput.MouseSensitivity 0.022500
 GstInput.MouseSensitivityVehicle 0.450000
 GstInput.OptionAirplanePilotControl 1
 GstInput.PcPadLayout 0
